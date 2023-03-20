@@ -1,4 +1,4 @@
-`API` : https://npmjs.com/ikyy
+`API` : https://npmjs.com/ikyy <br/>
 `PREVIEW` : https://quotes.rzky.site
 # Getting Started with Create React App
 
